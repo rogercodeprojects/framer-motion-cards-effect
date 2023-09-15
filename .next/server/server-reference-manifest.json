@@ -1,0 +1,21 @@
+{
+  "node": {
+    "6385809dcb4b954a5ddfc319ce64f92c18ca56cc": {
+      "workers": {
+        "app/page": "(actionBrowser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Croger%5C%5CDesktop%5C%5Crogerorca%5C%5CproyectosProgramacion%5C%5Cnextjs-prisma-poc%5C%5Csrc%5C%5Ccomponents%5C%5Cmodal-new-shoe%5C%5Csave-shoe.tsx%22%2C%5B%22saveShoe%22%2C%22removeShoe%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "actionBrowser"
+      }
+    },
+    "5a20618946a04c346cc38b80b2b7be0235310c56": {
+      "workers": {
+        "app/page": "(actionBrowser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Croger%5C%5CDesktop%5C%5Crogerorca%5C%5CproyectosProgramacion%5C%5Cnextjs-prisma-poc%5C%5Csrc%5C%5Ccomponents%5C%5Cmodal-new-shoe%5C%5Csave-shoe.tsx%22%2C%5B%22saveShoe%22%2C%22removeShoe%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "actionBrowser"
+      }
+    }
+  },
+  "edge": {}
+}
